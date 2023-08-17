@@ -1,6 +1,7 @@
 {
    "users" : [
     {
+      "id" : 1,
       "username" : "John",
       "avatar" : "https://tse2.mm.bing.net/th?id=OIP.Vz7Q6Wr0q-3Hae34XUGPswHaHa&pid=Api&P=0&h=180",
       "email" : "john@gmail.com",
@@ -10,6 +11,7 @@
 
    "forum" : [
     {
+      "id" : 1,
       "question": {
         "userAvatar": "https://tse2.mm.bing.net/th?id=OIP.Vz7Q6Wr0q-3Hae34XUGPswHaHa&pid=Api&P=0&h=180",
         "username": "JohnDoe123",
